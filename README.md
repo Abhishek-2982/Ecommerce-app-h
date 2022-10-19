@@ -22,3 +22,12 @@ Click on the “Import” tab and choose the database file (.sql) which is provi
 After setting up all these, go to URL “http://localhost/[ ENTER_PROJECT_FOLDER_NAME_HERE ]“ All the login details are provided inside the project folder, check that out and enter in order to use it.
 
 All the basic imformations related to this project is inside the zip file.
+
+![ScreenShot_10_20_2022_1_27_43_AM](https://user-images.githubusercontent.com/104325672/196791676-d0516150-e34a-4a88-9f68-97bdd9818090.png)
+
+![ScreenShot_10_20_2022_1_29_16_AM](https://user-images.githubusercontent.com/104325672/196791798-b8ecc509-21b3-4e27-970c-5febc2965e9f.png)
+
+![ScreenShot_10_20_2022_1_30_01_AM](https://user-images.githubusercontent.com/104325672/196791922-c27a9a45-17bc-4a6d-94f8-7dd43988face.png)
+
+![ScreenShot_10_20_2022_1_30_42_AM](https://user-images.githubusercontent.com/104325672/196792159-ccde1732-f249-4e20-9116-9d26b9395dff.png)
+
